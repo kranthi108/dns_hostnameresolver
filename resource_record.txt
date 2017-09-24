@@ -1,0 +1,10 @@
+com 127.0.0.9 7001
+org 127.0.0.2 7002
+ping.com 127.0.0.3 7003
+oracle.com 127.0.0.4 7004
+internet.org 127.0.0.5 7005
+boomer.org 127.0.0.6 7006
+www.brain.ping.com 127.0.0.7 7007
+www.mind.internet.org 127.0.0.54 7016
+www.mobile.oracle.com 127.0.0.64 7019
+www.game.boomer.org 127.0.0.47 7021

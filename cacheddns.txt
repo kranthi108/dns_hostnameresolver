@@ -1,0 +1,2 @@
+www.mobile.oracle.com 127.0.0.64 7019
+www.ginger.bing.com 127.0.0.144	7090
